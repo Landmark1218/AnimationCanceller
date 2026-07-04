@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AnimCancelPatcher/AnimCancelPatcher.csproj" />
+  <Project Path="CUE4Parse/CUE4Parse/CUE4Parse.csproj" />
+</Solution>

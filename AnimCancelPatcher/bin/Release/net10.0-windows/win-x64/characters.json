@@ -1,0 +1,720 @@
+[
+  {
+    "CharacterId": "Ch001",
+    "Name": "Deku",
+    "Element": "Yellow",
+    "MaxComboStages": 4,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch001.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch000/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage",
+      "4": "at004_Attack4_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch001",
+    "Name": "Deku",
+    "Element": "Red",
+    "MaxComboStages": 4,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch001.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch000/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage",
+      "4": "at004_Attack4_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch202",
+    "Name": "Midoriya",
+    "Element": "Blue",
+    "MaxComboStages": 5,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch202.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch202/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage",
+      "4": "at004_Attack4_Montage",
+      "5": "at005_Attack5_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch002",
+    "Name": "Bakugo",
+    "Element": "Red",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch002.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch002/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch002",
+    "Name": "Bakugo",
+    "Element": "Blue",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch002.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch002/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch002",
+    "Name": "Bakugo",
+    "Element": "Purple",
+    "MaxComboStages": 2,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch002.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch002/Variation/Var02/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch003",
+    "Name": "Ochako",
+    "Element": "Yellow",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch003.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch003/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch003",
+    "Name": "Ochako",
+    "Element": "Blue",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch003.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch003/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch004",
+    "Name": "Shoto",
+    "Element": "Red",
+    "MaxComboStages": 4,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch004.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch004/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage",
+      "4": "at004_Attack4_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch004",
+    "Name": "Shoto",
+    "Element": "Purple",
+    "MaxComboStages": 4,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch004.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch004/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage",
+      "4": "at004_Attack4_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch005",
+    "Name": "Iida",
+    "Element": "Blue",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch005.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch005/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch006",
+    "Name": "Froppy",
+    "Element": "Blue",
+    "MaxComboStages": 2,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch006.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch006/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch007",
+    "Name": "Denki",
+    "Element": "Red",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch007.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch007/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch007",
+    "Name": "Denki",
+    "Element": "Purple",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch007.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch007/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch008",
+    "Name": "Kirisima",
+    "Element": "Yellow",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch008.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch008/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch010",
+    "Name": "Momo",
+    "Element": "Green",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch010.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch010/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch012",
+    "Name": "All Might",
+    "Element": "Yellow",
+    "MaxComboStages": 5,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch012.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch012/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage",
+      "4": "at004_Attack4_Montage",
+      "5": "at005_Attack5_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch012",
+    "Name": "All Might",
+    "Element": "Blue",
+    "MaxComboStages": 5,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch012.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch012/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage",
+      "4": "at004_Attack4_Montage",
+      "5": "at005_Attack5_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch013",
+    "Name": "Aizawa",
+    "Element": "Purple",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch013.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch013/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch013",
+    "Name": "Aizawa",
+    "Element": "Red",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch013.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch013/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch015",
+    "Name": "Shigaraki",
+    "Element": "Red",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch015.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch015/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch015",
+    "Name": "Shigaraki",
+    "Element": "Yellow",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch015.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch015/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch015",
+    "Name": "Shigaraki",
+    "Element": "Purple",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch015.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch015/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch016",
+    "Name": "AFO",
+    "Element": "Purple",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch016.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch016/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch016",
+    "Name": "AFO",
+    "Element": "Red",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch016.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch016/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch017",
+    "Name": "Dabi",
+    "Element": "Red",
+    "MaxComboStages": 2,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch017.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch017/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch017",
+    "Name": "Dabi",
+    "Element": "Purple",
+    "MaxComboStages": 2,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch017.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch017/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch018",
+    "Name": "Toga",
+    "Element": "Purple",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch018.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch018/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch018",
+    "Name": "Toga",
+    "Element": "Blue",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch018.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch018/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch023",
+    "Name": "Endevor",
+    "Element": "Red",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch023.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch023/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch023",
+    "Name": "Endevor",
+    "Element": "Yellow",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch023.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch023/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch024",
+    "Name": "Mirio",
+    "Element": "Blue",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch024.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch024/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch024",
+    "Name": "Mirio",
+    "Element": "Purple",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch024.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch024/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch025",
+    "Name": "Nejire",
+    "Element": "Purple",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch025.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch025/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch025",
+    "Name": "Nejire",
+    "Element": "Green",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch025.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch025/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch026",
+    "Name": "Tamaki",
+    "Element": "Red",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch026.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch026/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch034",
+    "Name": "Overhaul",
+    "Element": "Green",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch034.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch034/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch034",
+    "Name": "Overhaul",
+    "Element": "Yellow",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch034.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch034/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch043",
+    "Name": "hawks",
+    "Element": "Red",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch043.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch043/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch043",
+    "Name": "hawks",
+    "Element": "Blue",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch043.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch043/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch037",
+    "Name": "Twice",
+    "Element": "Blue",
+    "MaxComboStages": 3,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch037.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch037/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch038",
+    "Name": "Compress",
+    "Element": "Green",
+    "MaxComboStages": 2,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch038.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch038/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch046",
+    "Name": "Kendo",
+    "Element": "Yellow",
+    "MaxComboStages": 4,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch046.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch046/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage",
+      "2": "at002_Attack2_Montage",
+      "3": "at003_Attack3_Montage",
+      "4": "at004_Attack4_Montage"
+    }
+  },
+  {
+    "CharacterId": "Ch046",
+    "Name": "Kendo",
+    "Element": "Red",
+    "MaxComboStages": 4,
+    "IconPath": "Icons/T_ui_com_cahraface_Ch046.png",
+    "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch046/Variation/Var01/Animation/at",
+    "ComboAssets": {
+      "1": "at001_Attack1_Montage1",
+      "2": "at002_Attack2_Montage1",
+      "3": "at003_Attack3_Montage1",
+      "4": "at004_Attack4_Montage1"
+    }
+  },
+  {
+  "CharacterId": "Ch100",
+  "Name": "Mt. Lady",
+  "Element": "Yellow",
+  "MaxComboStages": 3,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch100.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch100/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage",
+    "3": "at003_Attack3_Montage"
+  }
+},
+{
+  "CharacterId": "Ch101",
+  "Name": "Cementoss",
+  "Element": "Green",
+  "MaxComboStages": 3,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch101.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch101/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage",
+    "3": "at003_Attack3_Montage"
+  }
+},
+{
+  "CharacterId": "Ch103",
+  "Name": "Kurogiri",
+  "Element": "Green",
+  "MaxComboStages": 3,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch103.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch103/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage",
+    "3": "at003_Attack3_Montage"
+  }
+},
+{
+  "CharacterId": "Ch104",
+  "Name": "Monoma",
+  "Element": "Purple",
+  "MaxComboStages": 2,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch104.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch104/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage"
+  }
+},
+{
+  "CharacterId": "Ch105",
+  "Name": "Shinso",
+  "Element": "Red",
+  "MaxComboStages": 2,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch105.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch105/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage"
+  }
+},
+{
+  "CharacterId": "Ch109",
+  "Name": "Present Mic",
+  "Element": "Red",
+  "MaxComboStages": 3,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch109.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch109/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage",
+    "3": "at003_Attack3_Montage"
+  }
+},
+{
+  "CharacterId": "Ch109",
+  "Name": "Present Mic",
+  "Element": "Blue",
+  "MaxComboStages": 3,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch109.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch109/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage",
+    "3": "at003_Attack3_Montage"
+  }
+},
+{
+  "CharacterId": "Ch114",
+  "Name": "Star",
+  "Element": "Red",
+  "MaxComboStages": 3,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch114.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch114/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage",
+    "3": "at003_Attack3_Montage"
+  }
+},
+{
+  "CharacterId": "Ch115",
+  "Name": "Lady Nagant",
+  "Element": "Red",
+  "MaxComboStages": 3,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch115.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch115/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage",
+    "3": "at003_Attack3_Montage"
+  }
+},
+{
+  "CharacterId": "Ch200",
+  "Name": "Armored All Might",
+  "Element": "Purple",
+  "MaxComboStages": 2,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch200.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch200/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage"
+  }
+},
+{
+  "CharacterId": "Ch201",
+  "Name": "Prime AFO",
+  "Element": "Yellow",
+  "MaxComboStages": 2,
+  "IconPath": "Icons/T_ui_com_cahraface_Ch201.png",
+  "RelativeAssetDirectory": "HerovsGame/Content/Character/Ch201/Animation/at",
+  "ComboAssets": {
+    "1": "at001_Attack1_Montage",
+    "2": "at002_Attack2_Montage"
+  }
+}
+]
